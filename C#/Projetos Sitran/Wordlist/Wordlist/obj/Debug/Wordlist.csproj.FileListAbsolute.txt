@@ -1,0 +1,7 @@
+C:\Users\rafael.ferreira\source\repos\Wordlist\Wordlist\bin\Debug\Wordlist.exe.config
+C:\Users\rafael.ferreira\source\repos\Wordlist\Wordlist\bin\Debug\Wordlist.exe
+C:\Users\rafael.ferreira\source\repos\Wordlist\Wordlist\bin\Debug\Wordlist.pdb
+C:\Users\rafael.ferreira\source\repos\Wordlist\Wordlist\obj\Debug\Wordlist.csprojResolveAssemblyReference.cache
+C:\Users\rafael.ferreira\source\repos\Wordlist\Wordlist\obj\Debug\Wordlist.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ferreira\source\repos\Wordlist\Wordlist\obj\Debug\Wordlist.exe
+C:\Users\rafael.ferreira\source\repos\Wordlist\Wordlist\obj\Debug\Wordlist.pdb

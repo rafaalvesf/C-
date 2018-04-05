@@ -1,0 +1,14 @@
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\bin\Debug\chams.mdf
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\bin\Debug\chams_log.ldf
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\bin\Debug\Chamado.exe.config
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\bin\Debug\Chamado.exe
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\bin\Debug\Chamado.pdb
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.csprojResolveAssemblyReference.cache
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.Form1.resources
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.Properties.Resources.resources
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.csproj.GenerateResource.Cache
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.exe
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.pdb
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.Menu.resources
+C:\Users\rafael.ferreira\source\repos\Chamado\Chamado\obj\Debug\Chamado.alterar_a_senha.resources
