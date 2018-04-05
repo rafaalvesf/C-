@@ -1,0 +1,9 @@
+C:\Users\Rafael\Desktop\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\Users\Rafael\Desktop\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+C:\Users\Rafael\Desktop\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+C:\Users\Rafael\Desktop\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\Rafael\Desktop\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb
+C:\Users\rafael.ferreira\OneDrive\Faculdade\Calado\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\Users\rafael.ferreira\OneDrive\Faculdade\Calado\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\rafael.ferreira\OneDrive\Faculdade\Calado\EscEmArquivo-RafaelFalves\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb

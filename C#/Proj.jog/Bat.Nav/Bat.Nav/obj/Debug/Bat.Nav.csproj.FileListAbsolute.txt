@@ -1,0 +1,13 @@
+c:\users\rafael.ferreira\documents\visual studio 2015\Projects\Bat.Nav\Bat.Nav\bin\Debug\Bat.Nav.exe.config
+C:\Users\rafael.ferreira\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\bin\Debug\Bat.Nav.exe.config
+C:\Users\rafael.ferreira\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\bin\Debug\Bat.Nav.exe
+C:\Users\rafael.ferreira\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\bin\Debug\Bat.Nav.pdb
+C:\Users\rafael.ferreira\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\obj\Debug\Bat.Nav.csprojResolveAssemblyReference.cache
+C:\Users\rafael.ferreira\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\obj\Debug\Bat.Nav.exe
+C:\Users\rafael.ferreira\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\obj\Debug\Bat.Nav.pdb
+C:\Users\Rafael\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\bin\Debug\Bat.Nav.exe.config
+C:\Users\Rafael\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\obj\Debug\Bat.Nav.exe
+C:\Users\Rafael\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\obj\Debug\Bat.Nav.pdb
+C:\Users\Rafael\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\bin\Debug\Bat.Nav.exe
+C:\Users\Rafael\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\bin\Debug\Bat.Nav.pdb
+C:\Users\Rafael\OneDrive\Proj.jog\Bat.Nav\Bat.Nav\obj\Debug\Bat.Nav.csprojResolveAssemblyReference.cache
